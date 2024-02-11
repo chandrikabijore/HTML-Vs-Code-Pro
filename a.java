@@ -5,5 +5,3 @@ class A
 	     System.out.print("jdk installed..!");	
 	}
 }
-
-
